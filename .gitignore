@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/Realistic_Dynamic_SkySystem/Maps/DemoMap_Content/*
+Content/Realistic_Dynamic_SkySystem/Textures/*
+Content/Realistic_Dynamic_SkySystem/Sounds/*
+
+Content/UltraDynamicSky/Textures/*
